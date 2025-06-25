@@ -56,3 +56,5 @@ Fundamentals of LDPC codes and their structure
 - NPTEL Lectures by Prof. Andrew Thangaraj
 - Lecture materials by Prof. Yash Vasavda**
 
+# Team
+This is a course project done by a group of 15 students
